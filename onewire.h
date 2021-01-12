@@ -1,3 +1,4 @@
+// thrid party library from http://we.easyelectronics.ru/STM32/stm32-1-wire-dma-prodolzhenie.html
 /*
  * onewire.h
  *
