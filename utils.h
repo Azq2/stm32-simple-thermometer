@@ -33,6 +33,7 @@ void delay_us(uint32_t us);
 void delay_ms(uint32_t us);
 
 uint32_t crc32(const uint8_t *data, uint32_t size);
+uint8_t crc8(const uint8_t *data, uint8_t len);
 
 #ifdef __cplusplus
 }

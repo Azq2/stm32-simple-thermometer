@@ -1,0 +1,6 @@
+#monitor debug_bmp enable
+#monitor jtag_scan
+monitor swdp_scan
+attach 1
+load
+kill
